@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DisturbedMoss
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science at college
+- 🌱 I’m currently javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
