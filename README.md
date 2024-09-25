@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DisturbedMoss
-- 👀 I’m interested in programming
+- 👀 See my portfolio https://disturbedmoss.github.io/Portfolio-VitorHugo/
+- 👀 Javascript, HTML5, CSS3, basic MySQL and basic Git.
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
