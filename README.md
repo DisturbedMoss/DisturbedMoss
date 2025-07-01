@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @DisturbedMoss
+- 👋 Hi, I’m Vitor Hugo
 - 👀 See my portfolio https://disturbedmoss.github.io/Portfolio-VitorHugo/
-- 👀 Javascript, HTML5, CSS3, basic MySQL and basic Git.
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Javascript, React, Tailwindcss and basic Git.
+
 
 <!---
 DisturbedMoss/DisturbedMoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
