@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vitor Hugo
 - 👀 See my portfolio https://disturbedmoss.github.io/Portfolio-VitorHugo/
-- 👀 Javascript, React, Tailwindcss and basic Git.
+- 👀 Javascript, React, Tailwindcss, TypeScript and Git.
 
 
 <!---
