@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================================
 
 Desenvolvedor web
+
 -----------------
 
 24 anos, apaixonado por tecnologia, venho me desenvolvendo como desenvedor Front-End nos últimos 2 anos com o objetivo de me tornar FullStack. Sou uma pessoa criativa, resiliente e persistente.
